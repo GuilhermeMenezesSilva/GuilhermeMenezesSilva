@@ -5,8 +5,9 @@
 - :telephone_receiver: Atualmente estou trabalhando na Sitel Brasil com atendimento ao cliente de uma multifuncional
 - :computer: Estou cursando Analise e Desenvolvimento de Sistemas (3º Semestre) pela FIAP - Faculdade de Informática e Administração Paulista.
 
-## Conecte-se comigo:
+## Meios de contato:
 <div>
+<whatsapp-button phone="11976709013" dialcode="11" label="Iniciar conversa"></whatsapp-button>
 <a href = "guissilvamenezes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilherme-menezes-0b186b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
