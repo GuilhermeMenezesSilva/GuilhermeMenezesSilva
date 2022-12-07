@@ -7,7 +7,6 @@
 
 ## Meios de contato:
 <div>
-<a href="tel:+5571999999999">Clique aqui para ligar para (71) 99999-9999</a>
 <a href = "guissilvamenezes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilherme-menezes-0b186b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
