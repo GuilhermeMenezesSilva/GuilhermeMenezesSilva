@@ -5,7 +5,7 @@ Meu nome é Guilherme, mas pode me chamar de Menezes.
 - :telephone_receiver: Atualmente estou trabalhando na Sitel Brasil com atendimento ao cliente de uma multifuncional
 - :computer: Estou cursando Analise e Desenvolvimento de Sistemas pela FIAP - Faculdade de Informática e Administração Paulista.
 
-Aqui encontrará projetos desenvolvidos tanto para web quanto para sistema, desde o básico ao mais avançado
+Aqui encontrará projetos desenvolvidos desde o básico ao mais avançado
 
 ## IDE'S
 <div>
