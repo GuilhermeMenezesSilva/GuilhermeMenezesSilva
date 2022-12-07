@@ -5,7 +5,8 @@
 - :telephone_receiver: Atualmente estou trabalhando na Sitel Brasil com atendimento ao cliente de uma multifuncional
 - :computer: Estou cursando Analise e Desenvolvimento de Sistemas (3º Semestre) pela FIAP - Faculdade de Informática e Administração Paulista.
 
-### Aqui encontrará projetos desenvolvidos desde o básico ao mais avançado
+### Aqui encontrará projetos desenvolvidos desde o básico ao mais avançado. 
+## Espero que goste! :smiley: 
 
 ## Ferramentas e Linguagens
 <div>
