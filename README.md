@@ -1,6 +1,6 @@
-# Olá, seja bem-vindo ao meu perfil do GitHub :wave:
+# Olá, seja bem-vindo!
 
-Meu nome é Guilherme, mas pode me chamar de Menezes. 
+## Meu nome é Guilherme, mas pode me chamar de Menezes. 
 
 - :telephone_receiver: Atualmente estou trabalhando na Sitel Brasil com atendimento ao cliente de uma multifuncional
 - :computer: Estou cursando Analise e Desenvolvimento de Sistemas (3º Semestre) pela FIAP - Faculdade de Informática e Administração Paulista.
