@@ -1,6 +1,6 @@
 # Olá, Bem-vindo ao meu perfil do GitHub :wave:
 
-## Meu nome é Guilherme, mas pode me chamar de Menezes! Atualmente estou trabalhando na Sitel Brasil no atendimento ao cliente de uma multfuncional. Estou cursando Analise e Desenvolvimento de Sistemas pela FIAP - Faculdade de Informática e Administração Paulista. Aqui encontrará projetos desde o basico ao mais "avançado". Espero que goste! :heart:
+## Meu nome é Guilherme, mas pode me chamar de Menezes! Atualmente estou trabalhando na Sitel Brasil no atendimento ao cliente de uma multifuncional. Estou cursando Analise e Desenvolvimento de Sistemas pela FIAP - Faculdade de Informática e Administração Paulista. Aqui encontrará projetos desde o basico ao mais "avançado". Espero que goste! :heart:
 
 ## IDE'S
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
