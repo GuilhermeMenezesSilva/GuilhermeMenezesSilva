@@ -18,8 +18,7 @@ Aqui encontrará projetos desenvolvidos desde o básico ao mais avançado
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <div/>  
- ##
-
+<--!-->
 <div>
 <a href="https://github.com/GuilhermeMenezesSilva">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMenezesSilva&layout=compact&langs_count=7&theme=dracula"/>
