@@ -1,12 +1,9 @@
 # Olá, seja bem-vindo!
 
-### Meu nome é Guilherme, mas pode me chamar de Menezes. 
+### Meu nome é Guilherme, mas pode me chamar de Menezes.
 
 - :telephone_receiver: Atualmente estou trabalhando na Sitel Brasil com atendimento ao cliente de uma multifuncional
 - :computer: Estou cursando Analise e Desenvolvimento de Sistemas (3º Semestre) pela FIAP - Faculdade de Informática e Administração Paulista.
-
-### Aqui encontrará projetos desenvolvidos desde o básico ao mais avançado. 
-## Espero que goste! :smiley: 
 
 ## Ferramentas e Linguagens
 <div>
@@ -26,6 +23,11 @@
 <a href="https://github.com/GuilhermeMenezesSilva">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMenezesSilva&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMenezesSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div>
+<a href = "guissilvamenezes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-menezes-0b186b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
 ![Snake animation](https://github.com/GuilhermeMenezesSilva/GuilhermeMenezesSilva/blob/output/github-contribution-grid-snake.svg)
