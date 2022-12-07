@@ -7,7 +7,7 @@ Meu nome é Guilherme, mas pode me chamar de Menezes.
 
 Aqui encontrará projetos desenvolvidos desde o básico ao mais avançado
 
-## Linguagens e ferramentas
+## Ferramentas e Linguagens
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
