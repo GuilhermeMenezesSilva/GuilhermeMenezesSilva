@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub :wave:
+# Olá, Bem-vindo ao meu perfil do GitHub :wave:
 
 ## Meu nome é Guilherme, mas pode me chamar de Menezes! Atualmente estou trabalhando na Sitel Brasil no atendimento ao cliente de uma multfuncional. Estou cursando Analise e Desenvolvimento de Sistemas pela FIAP - Faculdade de Informática e Administração Paulista. Aqui encontrará projetos desde o basico ao mais "avançado". Espero que goste! :heart:
 
@@ -13,18 +13,18 @@
 
 
 ## Linguagens de desenvolvimento de sistema
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 ## Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 ## Bibliotecas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/GuilhermeMenezesSilva">
