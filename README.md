@@ -4,6 +4,7 @@
 
 - :telephone_receiver: Atualmente estou trabalhando na Sitel Brasil com atendimento ao cliente de uma multifuncional
 - :computer: Estou cursando Analise e Desenvolvimento de Sistemas (3º Semestre) pela FIAP - Faculdade de Informática e Administração Paulista.
+- :man_technologist: Minha area favorita é em Desenvolvimento Web. Busco conhecimento em frameworks e aprimoramento nas linguagens  
 
 ## Meios de contato:
 <div>
